@@ -4,7 +4,8 @@ Integration of EventKG and EventRegistry data model
 # Cloning the repository
 git clone https://github.com/mahfuja/EventCentricKnowledgeGraph
 
-# Required python packages (install packages by "pip install packageName")
+# Required python packages 
+install packages by "pip install packageName"
 1. eventregistry
 2. SPARQLWrapper
 3. json
