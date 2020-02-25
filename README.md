@@ -20,6 +20,7 @@ Is a SPARQL endpoint which will gives integrated data from different RDF sources
 I have used http://eventkginterface.l3s.uni-hannover.de/sparql as a SPARQL endpoint.
 
 Getting access from EventRegistry and SPARQL endpoints,
+modify API_KEY on file eventRegistry.py with your own key from eventregistry.org 
 you can run the EventCentricKnowledgeGraph by following command
 
 python eventRegistry.py
