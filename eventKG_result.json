@@ -1,0 +1,35 @@
+{
+    "startTime": [
+        "1941-02-12",
+        "1941-02-14",
+        "1941-02-14",
+        "1941-02-17",
+        "1941-02-19",
+        "1941-02-22",
+        "1941-02-25",
+        "1941-02-27",
+        "1941-02-27"
+    ],
+    "description": [
+        "Erwin Rommel arrives in Tripoli.",
+        "Admiral Kichisabur\u014d Nomura begins his duties as Japanese Ambassador to the United States.",
+        "World War II \u2013 Attack on Pearl Harbor: Admiral Kichisabur\u014d Nomura begins his duties as Japanese ambassador to the United States.",
+        "The Battle of Trebeshina  or the Battle of Mal Trebeshin\u00eb, was a series of engagements fought between the Greek and Italian armies in south-eastern Albania during the Greco-Italian War.",
+        "Three Nights' Blitz over Swansea, South Wales: Over these 3 nights of intensive bombing, which lasts a total of 13 hours and 48 minutes, Swansea's town centre is almost completely obliterated by the 896 high explosive bombs employed by the Luftwaffe; 397 casualties and 230 deaths are reported.",
+        "Bombards Barawa, on the coast between Kismayo and Mogadishu.",
+        "Operation Abstention was a code name given to a British invasion of the Italian island of Kastelorizo  off the Turkish Aegean coast, during the Second World War, in late February 1941.",
+        "The Action of 27 February 1941 was a single ship action between a New Zealand cruiser and an Italian auxiliary cruiser.",
+        "The New Zealand Division cruiser HMS Leander (1931) sinks Italian armed merchant raider Ramb I off the Maldives."
+    ],
+    "event_resource": [
+        "",
+        "",
+        "",
+        "http://dbpedia.org/resource/Battle_of_Trebeshina",
+        "",
+        "",
+        "http://dbpedia.org/resource/Operation_Abstention",
+        "http://dbpedia.org/resource/Action_of_27_February_1941",
+        ""
+    ]
+}
