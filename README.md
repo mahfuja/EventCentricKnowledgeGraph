@@ -26,4 +26,4 @@ you can run the EventCentricKnowledgeGraph by following command
 python eventRegistry.py
 
 As a input parameter user needs to give SPARQL query.
-sparql_example.txt as a reference query example.
+sparql_query.txt as a reference query example.
